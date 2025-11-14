@@ -79,4 +79,4 @@ footer = tk.Label(root, text="Dibuat oleh: Jumita Hutagalung", bg="#E9F0FB", fg=
 footer.pack(side="bottom", pady=5)
 
 # Jalankan program
-root.mainloop()
+root.mainloop
